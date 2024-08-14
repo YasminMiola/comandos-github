@@ -1,3 +1,6 @@
+# Imagem
+![]![alt text](image.png)
+
 ### code . -> abre o visual code na pasta atual
  
 ### mkdir nome -> criação de pasta
